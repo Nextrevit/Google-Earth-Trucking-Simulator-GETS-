@@ -10,3 +10,5 @@ Open GE flight simulator AFTER you installed the mod.
 Select "SR22". Make sure you are as close to the ground as possible.
 
 Arrow keys to drive, B for engine brake, F and Shift F for WIP trailer simulation.
+
+When exiting Google Earth, it will prompt you to save a place in the "Temporary Places" folder. Click "Discard".
